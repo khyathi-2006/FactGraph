@@ -1,0 +1,9 @@
+fastapi==0.121.2
+uvicorn[standard]==0.40.0
+pymupdf==1.28.2
+pydantic==2.12.4
+python-multipart==0.0.20
+scikit-learn==1.7.2
+httpx==0.28.1
+python-dotenv==1.2.3
+pytest==8.4.2
